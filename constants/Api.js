@@ -1,0 +1,1 @@
+export const TVSHOW_API = "https://api.tvmaze.com/shows";

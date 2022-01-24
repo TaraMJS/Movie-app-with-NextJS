@@ -1,3 +1,6 @@
+## About
+This is a next.js school project that demonstrate a movie app like IMDB with a contact form validation and a login authorization proccess that uses a locally hosted strapi installation to check credentials
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
